@@ -8,7 +8,8 @@ More text.
 
 ## Part Two
 
-Contains come intro.
+<details>
+  <summary>Contains some intro.</summary>
 
 ### A subsection
 
@@ -18,6 +19,7 @@ Contains come intro.
 #!/bin/foo bar baz
 blah
 ```
+</details>
 
 ## Part Three
 
